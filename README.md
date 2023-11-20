@@ -5,7 +5,7 @@
 
 NetInfo的设计初衷是，当我们在攻防演练当中，拿到权限的第一时间收集全部可以利用的信息，为进一步的权限维持、权限提升、横向移动打好铺垫。（暂不开源）
 
-<img src="https://github.com/cc7v/NetInfo/assets/144163345/8847d6f8-fb6e-4db3-85be-49711b3fb40e" width = "600" height = "450" div align=center />
+<img src="https://github.com/cc7v/NetInfo/assets/144163345/83eaa3b2-492f-478c-947b-0a05947e2d4b" width = "700" height = "700" div align=center />
 
 # 快速入门
 
